@@ -7,7 +7,7 @@
   - [osTicket: Post-Installation Configuration](https://github.com/AbrahamWire/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/AbrahamWire/ticket-lifecycle)
 - <b>Microsoft Azure</b>
-  - [Configuring Active Directory within Azure VMs](https://github.com/AbrahamWire/configure-ad)
+  - [Azure-based deployment of an on-premises Active Directory system](https://github.com/AbrahamWire/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/AbrahamWire/azure-network-protocols)
   - [Setting up a Virtual Private Network (VPN) within Azure VMS](https://github.com/AbrahamWire/setup-vpn-in-vm)
 
